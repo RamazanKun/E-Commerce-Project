@@ -1,0 +1,138 @@
+{
+    "category":[
+       
+          {
+            "id": 6,
+            "name": "MohaJaco",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GPKGUKRIXKRRxKRnG3eteVjaKKV_mE0DCWdeV7q8qdN1zq_nfjp2jDBUHbbVtjKfVXk&usqp=CAU"
+          },
+          {
+            "id": 9,
+            "name": "HugoSexy",
+            "image": "https://pbs.twimg.com/media/F3LlfgVWoAIjxJS?format=jpg&name=4096x4096"
+          },
+          {
+            "id": 26,
+            "name": "games1234",
+            "image": "https://teknoscene.com/wp-content/uploads/2021/06/consola-playstation-4-slim-1tb-negra.jpg"
+          },
+          {
+            "id": 34,
+            "name": "Perf. Category",
+            "image": "https://t4.ftcdn.net/jpg/00/81/38/59/360_F_81385977_wNaDMtgrIj5uU5QEQLcC9UNzkJc57xbu.jpg"
+          }
+
+    ],
+    "products":[
+      {
+        "id": 76,
+        "title": "crazy nike air jordan",
+        "price": 10000,
+        "description": "original jordans",
+        "images": [
+          "https://firebasestorage.googleapis.com/v0/b/shop-android-de2b1.appspot.com/o/images%2F2bcf51ef-2f1c-40b6-87df-23a5eee34209?alt=media&token=6699b2b2-a76f-4dc1-9681-9164d4aaf729"
+        ],
+        "creationAt": "2024-05-04T10:53:04.000Z",
+        "updatedAt": "2024-05-04T11:46:17.000Z",
+        "category": {
+          "id": 2,
+          "name": "change",
+          "image": "https://i.imgur.com/ZANVnHE.jpeg",
+          "creationAt": "2024-05-04T00:48:16.000Z",
+          "updatedAt": "2024-05-04T01:27:31.000Z"
+        }
+      },
+      {
+        "id": 103,
+        "title": "New Product test",
+        "price": 10,
+        "description": "A description",
+        "images": [
+          "https://picsum.photos/200/300.jpg"
+        ],
+        "creationAt": "2024-05-04T13:01:08.000Z",
+        "updatedAt": "2024-05-04T13:01:08.000Z",
+        "category": {
+          "id": 18,
+          "name": "farmbute",
+          "image": "https://placeimg.com/640/480/any",
+          "creationAt": "2024-05-04T12:44:08.000Z",
+          "updatedAt": "2024-05-04T14:21:43.000Z"
+        }
+      },
+      {
+        "id": 104,
+        "title": "hehe",
+        "price": 255,
+        "description": "this neww",
+        "images": [
+          "https://firebasestorage.googleapis.com/v0/b/shop-android-de2b1.appspot.com/o/images%2F4dedf733-d04a-40b0-b17e-2de42f6c21ba?alt=media&token=874301e7-dcef-4928-8ae0-f384af529e57"
+        ],
+        "creationAt": "2024-05-04T13:11:35.000Z",
+        "updatedAt": "2024-05-04T13:11:35.000Z",
+        "category": {
+          "id": 3,
+          "name": "Furniture",
+          "image": "https://i.imgur.com/Qphac99.jpeg",
+          "creationAt": "2024-05-04T00:48:16.000Z",
+          "updatedAt": "2024-05-04T00:48:16.000Z"
+        }
+      },
+      {
+        "id": 105,
+        "title": "New Product test2",
+        "price": 10,
+        "description": "A description",
+        "images": [
+          "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/iphone-13-finish-select-202207-pink?wid=5120&hei=2880&fmt=webp&qlt=70&.v=WGQwVDZoTWdLODlMWERUbVY5M013a1NCSGJEVklzV3dtVWxKME5oOWltbmVBZDlxVUJSaEtFRjFpR2NmRnBWNkV3R3N1dkR3VXNqQzh1ekVsNVFSZTVvR3kxWE5sYW1HcnFoMUVFeEVmZ1VaQ09xY0daQlFxNDV2SXNUcmhPYUU=&traceId=1"
+        ],
+        "creationAt": "2024-05-04T13:44:53.000Z",
+        "updatedAt": "2024-05-04T13:44:53.000Z",
+        "category": {
+          "id": 18,
+          "name": "farmbute",
+          "image": "https://placeimg.com/640/480/any",
+          "creationAt": "2024-05-04T12:44:08.000Z",
+          "updatedAt": "2024-05-04T14:21:43.000Z"
+        }
+      },
+      {
+        "id": 106,
+        "title": "dress model",
+        "price": 599,
+        "description": "new dress",
+        "images": [
+          "https://api.escuelajs.co/api/v1/files/9d03.jpg"
+        ],
+        "creationAt": "2024-05-04T14:21:00.000Z",
+        "updatedAt": "2024-05-04T14:21:00.000Z",
+        "category": {
+          "id": 1,
+          "name": "change",
+          "image": "https://i.imgur.com/ZANVnHE.jpeg",
+          "creationAt": "2024-05-04T00:48:16.000Z",
+          "updatedAt": "2024-05-04T01:27:55.000Z"
+        }
+      },
+      {
+        "id": 108,
+        "title": "New Product",
+        "price": 10,
+        "description": "A description",
+        "images": [
+          "https://picsum.photos/200"
+        ],
+        "creationAt": "2024-05-04T14:38:38.000Z",
+        "updatedAt": "2024-05-04T14:38:38.000Z",
+        "category": {
+          "id": 1,
+          "name": "change",
+          "image": "https://i.imgur.com/ZANVnHE.jpeg",
+          "creationAt": "2024-05-04T00:48:16.000Z",
+          "updatedAt": "2024-05-04T01:27:55.000Z"
+        }
+      }
+    ]
+
+    
+}
